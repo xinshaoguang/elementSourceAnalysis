@@ -1,10 +1,11 @@
 <template>
   <div id="app">
-    <div id="nav">
+    <!-- <div id="nav">
       <router-link to="/">Home</router-link> |
       <router-link to="/about">About</router-link>
     </div>
-    <router-view/>
+    <router-view/> -->
+    <el-button >默认按钮</el-button> <el-button type="primary" >主要按钮</el-button>
   </div>
 </template>
 
